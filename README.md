@@ -6,8 +6,7 @@ It is a decentralized Review and AI powered survey platform where transparent an
 
 ### 🌐 Socials
 
-- [TrueScore Website]()
-- [X (Twitter)](https://x.com/true__score)
+- [TrueScore Website](https://true-score.vercel.app/)
 
 ## 🌟 Key Features
 
@@ -48,5 +47,4 @@ It is a decentralized Review and AI powered survey platform where transparent an
 For any questions, issues, or support, please reach out to us:
 
 - Email: f20221614@pilani.bits-pilani.ac.in
-- [X (Twitter)](https://x.com/true__score)
 - Open an issue in the repository.
