@@ -6,7 +6,7 @@ It is a decentralized Review and AI powered survey platform where transparent an
 
 ### 🌐 Socials
 
-- [TrueScore Website](https://true-score.vercel.app/)
+- [TrueScore Website]()
 - [X (Twitter)](https://x.com/true__score)
 
 ## 🌟 Key Features
