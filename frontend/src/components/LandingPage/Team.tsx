@@ -4,22 +4,13 @@ import { Github, Linkedin, Twitter } from "lucide-react";
 export default function Team() {
   const teamMembers = [
     {
-      name: "Pranay Jalan",
-      role: "Full Stack Developer",
-      image: "./pranay.jpg",
-      delay: 0.3,
-      github: "https://github.com/pranayjalan254",
-      linkedin: "https://www.linkedin.com/in/pranay-jalan254/",
-      twitter: "https://x.com/pranaytwts",
-    },
-    {
-      name: "Anmol Agrawal",
+      name: "Aarya Vardhan Shandilya",
       role: "Smart Contract Developer",
-      image: "./anmol.jpg",
+      image: "./jpg",
       delay: 0.5,
-      github: "https://github.com/anmolagr39",
-      linkedin: "https://www.linkedin.com/in/anmol-agrawal-aa62381b9/",
-      twitter: "https://twitter.com/anmolagrawal",
+      github: "https://github.com/",
+      linkedin: "https://www.linkedin.com/",
+      twitter: "https://twitter.com/",
     },
     {
       name: "Ansh Nohria",
